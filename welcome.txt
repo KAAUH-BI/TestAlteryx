@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+this is a test file for our KAAUH BI Project
+team Members: Hosni, Badr, Saeed, Ibrahil
+=======
 this is a test file for our KAAUH BI Project TO BI S
 team Members: Hosni, Badr, Saeed, Ibrahim
+>>>>>>> 58ae942836d2e10443303232f753c83c1e7d7e01
